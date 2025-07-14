@@ -18,8 +18,8 @@ const Index = () => {
   const properties = [
     {
       id: 1,
-      title: "Apartamento Luxo Beira Mar",
-      location: "Copacabana, Rio de Janeiro",
+      title: "Novos Lançamentos em São Paulo",
+      location: "São Paulo - SP",
       price: "R$ 2.850.000",
       bedrooms: 3,
       bathrooms: 2,
